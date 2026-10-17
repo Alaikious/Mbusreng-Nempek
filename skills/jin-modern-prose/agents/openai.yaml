@@ -1,0 +1,4 @@
+interface:
+  display_name: "浮生南北·古意今说"
+  short_description: "以史书词气配现代句式，保留古文妙语，复写浮生南北的设计文档"
+  default_prompt: "使用 $jin-modern-prose 写作或复写《浮生南北》文档，保留设定与数值，用古意今说的语气讲清楚。"
